@@ -20,7 +20,7 @@ I have hands-on experience working with **AI agent frameworks**, full-stack deve
 
 - **Languages:** Python, JavaScript (ES6+), TypeScript  
 - **Frontend:** HTML5, CSS3, Tailwind, Bootstrap, React  
-- **Backend:** Node.js, Express.js, Python  
+- **Backend:** Node.js, Express.js, Python, Next.js  
 - **Databases:** PostgreSQL, SQL  
 - **AI & Agents:** OpenAI Agents SDK, CrewAI, LangGraph, AutoGen, MCP  
 - **Tools:** Git/GitHub, Docker, Postman, CI/CD  
