@@ -65,13 +65,6 @@ I have hands-on experience working with **AI agent frameworks**, full-stack deve
 
 ---
 
-## 📄 Resume
-
-📌 **View my CV:**  
-[Samad Suara – Resume (PDF)](./Samad%20Suara%20CV%2011.pdf)
-
----
-
 ## 📫 How to Reach Me
 
 - **Email:** abdulsamadsuara@gmail.com  
