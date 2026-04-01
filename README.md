@@ -27,6 +27,13 @@ I have hands-on experience working with **AI agent frameworks**, full-stack deve
 - **Blockchain/Web3:** Internet Computer Protocol, Smart Contracts  
 
 ---
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,nextjs,postgres,docker,git,linux,tailwind,express&perline=6)](https://skillicons.dev)
+
+## 🛠 Technical Focus
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,postgres,docker,git,github,tailwind,bootstrap,html,css,postman,linux&perline=9)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
