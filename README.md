@@ -32,13 +32,6 @@ I have hands-on experience working with **AI agent frameworks**, full-stack deve
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,postgres,docker,git,github,tailwind,bootstrap,html,css,postman,linux&perline=9)](https://skillicons.dev)
 
-## 🌱 Currently Learning
-
-- Advanced **AI agent architectures**
-- **Machine Learning & LLM integration**
-- Scalable backend systems
-- Blockchain-based applications
-
 ---
 
 ## 💻 Projects I’m Proud Of
