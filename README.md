@@ -34,6 +34,21 @@ I have hands-on experience working with **AI agent frameworks**, full-stack deve
 
 ---
 
+## 🧠 Technical Focus
+
+### Core Stack
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,postgres,docker,git,github,tailwind,bootstrap,html,css,linux,azure,terraform&perline=9)](https://skillicons.dev)
+
+### AI & Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crewai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 💻 Projects I’m Proud Of
 
 - **[AI-Agentic-Ideation-Factory](https://github.com/SuaraSamad/AI-Agentic-Ideation-Factory)**  
