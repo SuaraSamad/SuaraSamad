@@ -26,7 +26,7 @@ I build intelligent systems, scalable web apps, and agentic workflows at the int
 
 | Project | Description |
 |---|---|
-| [🤖 WhatsApp AI Assistant](https://github.com/SuaraSamad/whatsapp-bot) | Personal AI agent living inside WhatsApp — search, email, memory, auto-reply |
+| [🤖 WhatsApp AI Assistant](https://github.com/SuaraSamad/whatsapp-bot) | Personal AI agent living inside WhatsApp search, email, memory, auto-reply |
 | [💡 AI Agentic Ideation Factory](https://github.com/SuaraSamad/AI-Agentic-Ideation-Factory) | AI-driven ideation system using agent-based workflows |
 | [📈 Autonomous Equity Trader](https://github.com/SuaraSamad/Autonomous-equity-trader) | Autonomous trading agent for equity market experimentation |
 | [🎟️ Event Ticketing — Blockchain](https://github.com/SuaraSamad/event-ticketing-system-blockchain-based) | Secure blockchain-based event ticketing platform |
